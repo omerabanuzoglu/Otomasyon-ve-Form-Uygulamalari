@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\fina_ödev\fina_ödev\bin\Debug\fina_ödev.exe.config
+C:\Users\User\source\repos\fina_ödev\fina_ödev\bin\Debug\fina_ödev.exe
+C:\Users\User\source\repos\fina_ödev\fina_ödev\bin\Debug\fina_ödev.pdb
+C:\Users\User\source\repos\fina_ödev\fina_ödev\obj\Debug\fina_ödev.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fina_ödev\fina_ödev\obj\Debug\fina_ödev.Form1.resources
+C:\Users\User\source\repos\fina_ödev\fina_ödev\obj\Debug\fina_ödev.Properties.Resources.resources
+C:\Users\User\source\repos\fina_ödev\fina_ödev\obj\Debug\fina_ödev.csproj.GenerateResource.cache
+C:\Users\User\source\repos\fina_ödev\fina_ödev\obj\Debug\fina_ödev.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fina_ödev\fina_ödev\obj\Debug\fina_ödev.exe
+C:\Users\User\source\repos\fina_ödev\fina_ödev\obj\Debug\fina_ödev.pdb

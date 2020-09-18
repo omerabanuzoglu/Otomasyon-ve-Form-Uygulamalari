@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\bin\Debug\Bozkır_avm.exe.config
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\bin\Debug\Bozkır_avm.exe
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\bin\Debug\Bozkır_avm.pdb
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\obj\Debug\Bozkır_avm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\obj\Debug\Bozkır_avm.Form1.resources
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\obj\Debug\Bozkır_avm.Form2.resources
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\obj\Debug\Bozkır_avm.Properties.Resources.resources
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\obj\Debug\Bozkır_avm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\obj\Debug\Bozkır_avm.exe
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\obj\Debug\Bozkır_avm.pdb
+C:\Users\User\source\repos\Bozkır_avm\Bozkır_avm\obj\Debug\Bozkır_avm.Form3.resources

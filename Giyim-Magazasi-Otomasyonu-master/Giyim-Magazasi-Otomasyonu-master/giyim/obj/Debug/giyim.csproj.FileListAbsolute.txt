@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\giyim\giyim\bin\Debug\giyim.exe.config
+C:\Users\User\source\repos\giyim\giyim\bin\Debug\giyim.exe
+C:\Users\User\source\repos\giyim\giyim\bin\Debug\giyim.pdb
+C:\Users\User\source\repos\giyim\giyim\obj\Debug\giyim.csprojAssemblyReference.cache
+C:\Users\User\source\repos\giyim\giyim\obj\Debug\giyim.Form1.resources
+C:\Users\User\source\repos\giyim\giyim\obj\Debug\giyim.Properties.Resources.resources
+C:\Users\User\source\repos\giyim\giyim\obj\Debug\giyim.csproj.GenerateResource.cache
+C:\Users\User\source\repos\giyim\giyim\obj\Debug\giyim.exe
+C:\Users\User\source\repos\giyim\giyim\obj\Debug\giyim.pdb
+C:\Users\User\source\repos\giyim\giyim\obj\Debug\giyim.toptan.resources
+C:\Users\User\source\repos\giyim\giyim\obj\Debug\giyim.calisan.resources
+C:\Users\User\source\repos\giyim\giyim\obj\Debug\giyim.satiss.resources

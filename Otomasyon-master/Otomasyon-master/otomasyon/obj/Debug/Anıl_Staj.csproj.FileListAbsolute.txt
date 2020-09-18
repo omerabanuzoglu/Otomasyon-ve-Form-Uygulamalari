@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\bin\Debug\Anıl_Staj.exe.config
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\bin\Debug\Anıl_Staj.exe
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\bin\Debug\Anıl_Staj.pdb
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\obj\Debug\Anıl_Staj.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\obj\Debug\Anıl_Staj.Form1.resources
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\obj\Debug\Anıl_Staj.Properties.Resources.resources
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\obj\Debug\Anıl_Staj.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\obj\Debug\Anıl_Staj.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\obj\Debug\Anıl_Staj.exe
+C:\Users\user\source\repos\Anıl_Staj\Anıl_Staj\obj\Debug\Anıl_Staj.pdb
